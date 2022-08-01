@@ -1,2 +1,2 @@
-# metagenomic-database-utilities
-Scripts used to create metagenomic databases for metaproteomic analysis
+# Metagenomic database utilities
+This repository contains scripts used to create metagenomic databases for metaproteomic analysis.

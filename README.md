@@ -3,9 +3,9 @@ This repository contains scripts used to create metagenomic databases for metapr
 
 ```
 metagenomic-database-utilities
-│   README.md
+│   environment.yml   
 │   LICENSE
-│   environment.yml    
+│   README.md 
 │
 └───scripts
 │   │   assemble.sh

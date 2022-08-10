@@ -9,9 +9,12 @@ metagenomic-database-utilities
 │
 └───scripts
 │   │   assemble.sh
-│   │   kraken2.sh
 │   │   coverm.sh
+│   │   kraken2.sh
+│   │   metagenemark.sh
 │   
 └───notebooks
-    │   file021.txt
+    │   MD1_UniProt12.ipynb
+    │   MD2_UniProt12.ipynb
+    │   MD3_UniProt12.ipynb
 ```

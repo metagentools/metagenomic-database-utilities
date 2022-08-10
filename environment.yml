@@ -1,0 +1,10 @@
+name: mdutils
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - biopython
+  - xlsxwriter
+  - coverm
+  - cd-hit

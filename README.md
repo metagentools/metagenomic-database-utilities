@@ -1,6 +1,6 @@
 # Metagenomic database utilities
 
-This repository contains scripts used to create metagenomic databases for metaproteomic analysis.
+This repository contains scripts used to create metagenomic databases for metaproteomic analysis as part of the analysis for the [ConDiGA](https://github.com/metagentools/ConDiGA) repository.
 
 ## File organisation
 
